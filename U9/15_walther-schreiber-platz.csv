@@ -1,3 +1,4 @@
+timestamp,ssid,mac,channel,rssi,authmode,hidden
 '1605928761','HUAWEI-ZamZam','34:7E:00:EF:FC:9B','1','-59','3', '0'
 '1605928761','BVG Wi-Fi','00:81:C4:F8:84:40','1','-70','0', '0'
 '1605928761','qwerz','00:81:C4:F8:84:42','1','-70','3', '0'

@@ -1,3 +1,4 @@
+timestamp,ssid,mac,channel,rssi,authmode,hidden
 '1605921355','BVG Wi-Fi','A4:6C:2A:37:96:20','1','-65','0', '0'
 '1605921355','BVG Wi-Fi','A4:6C:2A:47:5F:D0','1','-77','0', '0'
 '1605921355','qwerz','A4:6C:2A:47:5F:D2','1','-78','3', '0'

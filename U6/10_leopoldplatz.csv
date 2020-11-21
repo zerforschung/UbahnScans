@@ -1,3 +1,4 @@
+timestamp,ssid,mac,channel,rssi,authmode,hidden
 '1605923803','Print','04:DA:D2:A7:0D:80','1','-79','3', '0'
 '1605923803','lcb-kasseBLP2','04:DA:D2:A7:0D:81','1','-73','3', '0'
 '1605923803','BVG Wi-Fi','00:81:C4:F6:13:90','1','-77','0', '0'
